@@ -1,0 +1,29 @@
+{
+  "produtos": [
+    {
+      "nome": "SSD Kingston NV2 1TB",
+      "url": "https://lista.mercadolivre.com.br/ssd-kingston-nv2-1tb?sb=all_mercadolibre#D[A:ssd%20kingston%20nv2%201tb]",
+      "preco_alvo": 1000.00
+    },
+    {
+      "nome": "Memória RAM Kingston Fury 16GB DDR4",
+      "url": "https://lista.mercadolivre.com.br/memoria-kingston-fury-ddr4-16gb?sb=all_mercadolibre#D[A:memoria%20kingston%20fury%20ddr4%2016gb]",
+      "preco_alvo": 800.00
+    },
+    {
+      "nome": "Mouse Logitech G203",
+      "url": "https://lista.mercadolivre.com.br/logitech-g203",
+      "preco_alvo": 85.00
+    },
+    {
+      "nome": "Teclado Redragon Kumara",
+      "url": "https://lista.mercadolivre.com.br/teclado-redragon-kumara?sb=all_mercadolibre#D[A:Teclado%20Redragon%20Kumara]",
+      "preco_alvo": 300.00
+    },
+    {
+      "nome": "Fone HyperX Cloud Stinger 2",
+      "url": "https://lista.mercadolivre.com.br/fone-hyperx-cloud-stinger-2?sb=all_mercadolibre#D[A:Fone%20HyperX%20Cloud%20Stinger%202]",
+      "preco_alvo": 200.00
+    }
+  ]
+}
