@@ -1,28 +1,28 @@
 {
   "produtos": [
     {
-      "nome": "SSD Kingston NV2 1TB",
-      "url": "https://lista.mercadolivre.com.br/ssd-kingston-nv2-1tb?sb=all_mercadolibre#D[A:ssd%20kingston%20nv2%201tb]",
+      "nome": "SSD M.2 NVMe 1TB PCIe 4.0 Kingston NV3 Leitura 6000 MB/s e Gravação 4000 MB/s",
+      "url": "https://www.mercadolivre.com.br/ssd-m2-nvme-1tb-pcie-40-kingston-nv3-leitura-6000-mbs-e-gravacao-4000-mbs/p/MLB39766120",
       "preco_alvo": 1000.00
     },
     {
-      "nome": "Memória RAM Kingston Fury 16GB DDR4",
-      "url": "https://lista.mercadolivre.com.br/memoria-kingston-fury-ddr4-16gb?sb=all_mercadolibre#D[A:memoria%20kingston%20fury%20ddr4%2016gb]",
+      "nome": "Memória Ram Para Pc Ddr4 3200mhz Cl16 32gb 1x32gb Kingston Fury Beast Kf432c16bb/32 Cor Preto",
+      "url": "https://www.mercadolivre.com.br/memoria-ram-para-pc-ddr4-3200mhz-cl16-32gb-1x32gb-kingston-fury-beast-kf432c16bb32-cor-preto/up/MLBU3356055351?pdp_filters=item_id:MLB4161153471",
       "preco_alvo": 800.00
     },
     {
-      "nome": "Mouse Logitech G203",
-      "url": "https://lista.mercadolivre.com.br/logitech-g203",
+      "nome": "Mouse Ótico para Jogos Logitech G203 LIGHTSYNC Preto",
+      "url": "https://www.mercadolivre.com.br/mouse-otico-para-jogos-logitech-g203-lightsync-preto/p/MLB16211422",
       "preco_alvo": 85.00
     },
     {
-      "nome": "Teclado Redragon Kumara",
-      "url": "https://lista.mercadolivre.com.br/teclado-redragon-kumara?sb=all_mercadolibre#D[A:Teclado%20Redragon%20Kumara]",
+      "nome": "Teclado Mecanico Gamer Kumara Elite Preto K552 Krs (pt-krs) Preto Português Brasil",
+      "url": "https://www.mercadolivre.com.br/teclado-mecanico-gamer-kumara-elite-preto-k552-krs-pt-krs-preto-portugues-brasil/p/MLB72896555?pdp_filters=item_id:MLB4759350739#",
       "preco_alvo": 300.00
     },
     {
-      "nome": "Fone HyperX Cloud Stinger 2",
-      "url": "https://lista.mercadolivre.com.br/fone-hyperx-cloud-stinger-2?sb=all_mercadolibre#D[A:Fone%20HyperX%20Cloud%20Stinger%202]",
+      "nome": "Headset Gamer Hyperx Cloud Stinger 2 Core Preto 683l9aa",
+      "url": "https://www.mercadolivre.com.br/headset-gamer-hyperx-cloud-stinger-2-core-preto-683l9aa/up/MLBU3339302185",
       "preco_alvo": 200.00
     }
   ]
